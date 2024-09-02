@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Claudio</h2>
-<h3 align="center">A fullstack developer and data analyst from Italy</h3>
+<h3 align="center">A Business Intelligence expert analyst from Italy</h3>
 
 - 🔭 I’m currently working on [Lovsquad](https://www.lovsquad.com/)
 
